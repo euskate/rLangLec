@@ -848,12 +848,12 @@ t-SNE (t-Distributed Stochastic Neighbor Embedding): 고차원 데이터를 시�
 
 ### 5-1-1. R 언어 다운로드
 
-1. R 공식 웹사이트 방문 - ![R공식사이트](https://www.r-project.org/) - https://www.r-project.org/
+1. R 공식 웹사이트 방문 - [R공식사이트](https://www.r-project.org/) - https://www.r-project.org/
 
 <br>
 
 2. CRAN (Comprehensive R Archive Network) 웹사이트로 이동합니다.
-  ![CRAN 페이지](https://cran.r-project.org/mirrors.html) - https://cran.r-project.org/mirrors.html
+  [CRAN 페이지](https://cran.r-project.org/mirrors.html) - https://cran.r-project.org/mirrors.html
 
 <br>
 
