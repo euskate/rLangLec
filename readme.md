@@ -53,14 +53,21 @@ Hadoop HDFS (Hadoop Distributed File System): 데이터를 여러 노드에 분�
 ### 1-4-2. 분산 처리 시스템
 
 1. Apache Hadoop: 분산 컴퓨팅 환경에서 대규모 데이터를 처리하기 위한 오픈 소스 프레임워크입니다.
+  [다운로드](https://hadoop.apache.org/releases.html)
 2. Apache Spark: 빠르고 범용적인 분산 데이터 처리 엔진으로, 인메모리 컴퓨팅을 지원합니다.
+  [다운로드](https://spark.apache.org/downloads.html)
 
 <br><br>
 
 ### 1-4-3. 데이터베이스
 
 1. NoSQL 데이터베이스: MongoDB, Cassandra, HBase 등. 비정형 데이터와 대규모 데이터를 효율적으로 처리합니다.
+  [MongoDB 다운로드](https://www.mongodb.com/try/download/community)
+  [Cassandra 다운로드](https://cassandra.apache.org/_/download.html)
+  [HBase 다운로드](https://hbase.apache.org/downloads.html)
 2. 관계형 데이터베이스: MySQL, PostgreSQL 등. 구조화된 데이터에 적합하지만, 대규모 데이터 처리에는 한계가 있을 수 있습니다.
+  [MySQL 다운로드](https://dev.mysql.com/downloads/installer/)
+  [PostgreSQL 다운로드](https://www.postgresql.org/download/)
 
 <br><br>
 
@@ -74,12 +81,12 @@ Hadoop HDFS (Hadoop Distributed File System): 데이터를 여러 노드에 분�
 
 ## 1-5. 빅데이터 분석 과정
 
-데이터 수집: 다양한 소스에서 데이터를 수집합니다. 웹 크롤링, 센서 데이터, 로그 파일 등.
-데이터 저장: 수집한 데이터를 저장할 스토리지 시스템을 선택합니다. HDFS, NoSQL 데이터베이스 등.
-데이터 처리: 데이터를 정제하고 변환하여 분석할 수 있는 형태로 가공합니다.
-데이터 분석: 데이터에서 패턴, 인사이트, 통계적 정보를 추출합니다.
-데이터 시각화: 분석 결과를 시각적으로 표현하여 이해하기 쉽게 전달합니다.
-결과 활용: 분석 결과를 기반으로 의사 결정을 내리고 전략을 수립합니다.
+1. 데이터 수집: 다양한 소스에서 데이터를 수집합니다. 웹 크롤링, 센서 데이터, 로그 파일 등.
+2. 데이터 저장: 수집한 데이터를 저장할 스토리지 시스템을 선택합니다. HDFS, NoSQL 데이터베이스 등.
+3. 데이터 처리: 데이터를 정제하고 변환하여 분석할 수 있는 형태로 가공합니다.
+4. 데이터 분석: 데이터에서 패턴, 인사이트, 통계적 정보를 추출합니다.
+5. 데이터 시각화: 분석 결과를 시각적으로 표현하여 이해하기 쉽게 전달합니다.
+6. 결과 활용: 분석 결과를 기반으로 의사 결정을 내리고 전략을 수립합니다.
 
 <br><br><br><br>
 

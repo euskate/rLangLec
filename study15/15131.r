@@ -1,0 +1,5 @@
+library(DBI)
+library(RSQLite)
+con <- dbConnect(RSQLite::SQLite(), ":memory:")
+dbWriteTable(con, "data", df)
+query <- dbGetQuery(con, "SELECT id, AVG(value) AS mean_value FROM data WHERE value > 0 GROUP BY id")
